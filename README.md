@@ -1,6 +1,6 @@
 # Eshop
 
-##Simple front end only react application representing an e-commerce website. 
+## Simple front end only react application representing an e-commerce website. 
 
 ---
 
